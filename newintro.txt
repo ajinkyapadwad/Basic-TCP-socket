@@ -1,0 +1,6 @@
+INTRODUCTION 
+In network programming, we establish a connection between two programs, which may be
+running on two different machines. The client/server model simplifies the development of
+network software by dividing the design process into client issues and server issues. 
+
+END 
